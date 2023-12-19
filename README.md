@@ -1,6 +1,6 @@
 # Resume
 
-https://anjali-chaudhary3.github.io/Portfolio/
+https://anjali-chaudhary3.github.io/Resume/
 
 • Designed and crafted a dynamic portfolio website utilizing HTML, CSS, and JavaScript.
 • The project showcases my proficiency in front-end development, encompassing elegant design and interactive
